@@ -1,0 +1,9 @@
+CACHE MANIFEST 
+
+CACHE:
+index.html
+main.js
+assets/sea.jpg
+
+FALLBACK:
+assets/travel.jpg assets/sea.jpg
